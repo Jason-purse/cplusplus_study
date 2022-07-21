@@ -1,3 +1,0 @@
-"F:\software\Java Tools\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cplus_study.dir/objects.a
-F:\software\mingw64\bin\ar.exe cr CMakeFiles\cplus_study.dir/objects.a @CMakeFiles\cplus_study.dir\objects1.rsp
-F:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\cplus_study.dir/objects.a -Wl,--no-whole-archive -o cplus_study.exe -Wl,--out-implib,libcplus_study.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cplus_study.dir\linklibs.rsp
