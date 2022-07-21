@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/software/Java Tools/CLion 2021.2.1/workspace/cplus_study/logic-process/LogicProcess.h
+
+F:/software/Java Tools/CLion 2021.2.1/workspace/cplus_study/main.cpp
+iostream
+-
+variable/variables.h
+F:/software/Java Tools/CLion 2021.2.1/workspace/cplus_study/variable/variables.h
+variable/dataInput.h
+F:/software/Java Tools/CLion 2021.2.1/workspace/cplus_study/variable/dataInput.h
+logic-process/LogicProcess.h
+F:/software/Java Tools/CLion 2021.2.1/workspace/cplus_study/logic-process/LogicProcess.h
+
+F:/software/Java Tools/CLion 2021.2.1/workspace/cplus_study/variable/dataInput.h
+
+F:/software/Java Tools/CLion 2021.2.1/workspace/cplus_study/variable/variables.h
+
