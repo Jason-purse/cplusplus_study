@@ -1,14 +1,13 @@
 //
-// Created by CQSF on 2022/7/21.
+// Created by CQSF on 2022/7/22.
 //
 
-#ifndef CMAKE_TUTORIAL_MAIN_H
-#define CMAKE_TUTORIAL_MAIN_H
-
+#ifndef FIRST_TUTORIAL_MATH_FUNC_H
+#define FIRST_TUTORIAL_MATH_FUNC_H
+extern double mySqrtByStrategy(double);
 /**
- * 计算平方根
- * @return  result
+ * 根据文件读取 ...
+ * @return  需要被处理的平方差的被处理数 ...
  */
-extern double sqrt(int);
-
-#endif //CMAKE_TUTORIAL_MAIN_H
+extern double sqrtByFile(double);
+#endif //FIRST_TUTORIAL_MATH_FUNC_H

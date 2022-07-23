@@ -1,4 +1,0 @@
-D:/JASONJ-WORKSPACE/cplusplus_study/cmake-tutorial/win-build/_CPack_Packages/win64/ZIP/cmake-tutorial-13.12-win64/lib/libmath-functions.a
-D:/JASONJ-WORKSPACE/cplusplus_study/cmake-tutorial/win-build/_CPack_Packages/win64/ZIP/cmake-tutorial-13.12-win64/include/math-func.h
-D:/JASONJ-WORKSPACE/cplusplus_study/cmake-tutorial/win-build/_CPack_Packages/win64/ZIP/cmake-tutorial-13.12-win64/bin/cmake-tutorial.exe
-D:/JASONJ-WORKSPACE/cplusplus_study/cmake-tutorial/win-build/_CPack_Packages/win64/ZIP/cmake-tutorial-13.12-win64/include/CalculateSqrtConfig.h

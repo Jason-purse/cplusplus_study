@@ -1,2 +1,0 @@
-E:/mingw64/bin/ar.exe qc libmath-functions.a "CMakeFiles/math-functions.dir/math-func.cpp.obj"
-E:/mingw64/bin/ranlib.exe libmath-functions.a
