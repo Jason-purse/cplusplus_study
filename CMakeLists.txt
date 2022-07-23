@@ -7,7 +7,7 @@ project(cplus_study VERSION 1.0)
 set(CMAKE_CXX_STANDARD 14)
 
 # 构建目标app的源文件
-add_executable(cplus_study main.cpp variable/variables.cpp variable/variables.h variable/dataInput.cpp variable/dataInput.h logic-process/logicProcess.cpp logic-process/LogicProcess.h )
+add_executable(cplus_study main.cpp variable/variables.cpp variable/variables.h variable/dataInput.cpp variable/dataInput.h logic-process/logicProcess.cpp logic-process/LogicProcess.h function/function.cpp StructureStudy.cpp SturctureStudy.h)
 
 
 
